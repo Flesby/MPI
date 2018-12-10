@@ -1,0 +1,12 @@
+﻿  Blocking_NonBlocking.cpp
+d:\wuang\mpi\blocking_nonblocking\blocking_nonblocking\blocking_nonblocking.cpp(29): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+d:\wuang\mpi\blocking_nonblocking\blocking_nonblocking\blocking_nonblocking.cpp(12): warning C4101: 'a' : variable locale non référencée
+d:\wuang\mpi\blocking_nonblocking\blocking_nonblocking\blocking_nonblocking.cpp(10): warning C4101: 'rc' : variable locale non référencée
+d:\wuang\mpi\blocking_nonblocking\blocking_nonblocking\blocking_nonblocking.cpp(10): warning C4101: 'I' : variable locale non référencée
+Blocking_NonBlocking.obj : error LNK2019: symbole externe non résolu _MPI_Bcast@20 référencé dans la fonction _main
+Blocking_NonBlocking.obj : error LNK2019: symbole externe non résolu _MPI_Reduce@28 référencé dans la fonction _main
+Blocking_NonBlocking.obj : error LNK2019: symbole externe non résolu _MPI_Comm_size@8 référencé dans la fonction _main
+Blocking_NonBlocking.obj : error LNK2019: symbole externe non résolu _MPI_Comm_rank@8 référencé dans la fonction _main
+Blocking_NonBlocking.obj : error LNK2019: symbole externe non résolu _MPI_Init@8 référencé dans la fonction _main
+Blocking_NonBlocking.obj : error LNK2019: symbole externe non résolu _MPI_Finalize@0 référencé dans la fonction _main
+D:\Wuang\MPI\Blocking_NonBlocking\Debug\Blocking_NonBlocking.exe : fatal error LNK1120: 6 externes non résolus
